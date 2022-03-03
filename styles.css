@@ -1,0 +1,9 @@
+body {
+  background-color: darkorange;
+  color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#home-page-header {
+  text-align: center;
+}
